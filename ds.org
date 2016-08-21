@@ -1,5 +1,9 @@
 Distributed Systems -- Good Articles
 
+* Good Articles
 
-*  http://www.allthingsdistributed.com/2008/12/eventually_consistent.html
-Eventual Consistency Article by Werner Vogels
+1. Eventual Consistency Article by Werner Vogels
+ http://www.allthingsdistributed.com/2008/12/eventually_consistent.html
+
+
+* Good Papers
