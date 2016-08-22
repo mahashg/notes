@@ -2,7 +2,7 @@ Distributed Systems -- Good Articles
 
 * Good Articles
 
-**. Eventual Consistency, Werner Vogels
+** Eventual Consistency, Werner Vogels
  http://www.allthingsdistributed.com/2008/12/eventually_consistent.html
 
 
