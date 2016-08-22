@@ -2,8 +2,24 @@ Distributed Systems -- Good Articles
 
 * Good Articles
 
-1. Eventual Consistency Article by Werner Vogels
+**. Eventual Consistency, Werner Vogels
  http://www.allthingsdistributed.com/2008/12/eventually_consistent.html
 
 
 * Good Papers
+** Distributed Databases
+*** Introduction to Cassandra, DataStaX
+http://www.datastax.com/wp-content/uploads/2012/08/WP-IntrotoCassandra.pdf
+
+** Distributed Systems
+*** Chubby Lock
+http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf
+
+** Hadoop Distributed File System
+http://pages.cs.wisc.edu/~akella/CS838/F15/838-CloudPapers/hdfs.pdf
+
+** Hive: Facebook
+infolab.stanford.edu/~ragho/hive-icde2010.pdf
+
+** Zookeeper: wait free co-ordination service
+static.cs.brown.edu/courses/cs227/archives/2012/papers/replication/hunt.pdf
