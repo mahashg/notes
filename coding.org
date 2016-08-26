@@ -1,0 +1,5 @@
+Articles on Good Codign Practices
+
+
+* Inversion of Control -- Martin Fowler
+http://martinfowler.com/articles/injection.html
