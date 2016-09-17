@@ -1,0 +1,9 @@
+Design Related Discussions
+
+* Reddit Answer on How to design FB like system
+https://www.reddit.com/r/cscareerquestions/comments/30y89g/how_do_you_answer_interview_questions_on_large/
+
+* System Design interview related tips
+https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
+
+https://github.com/checkcheckzz/system-design-interview

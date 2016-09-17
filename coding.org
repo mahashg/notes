@@ -3,3 +3,13 @@ Articles on Good Codign Practices
 
 * Inversion of Control -- Martin Fowler
 http://martinfowler.com/articles/injection.html
+
+
+
+Regular Expression
+* https://regexone.com/
+
+Competitive Programming
+
+*Indian Programming Camp - 2016
+https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/
